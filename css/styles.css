@@ -1,0 +1,44 @@
+body
+{
+	
+	
+	background: "background-image-for-website.jpg";
+}
+
+img 
+{
+	width: 300px;
+	height: 350px;
+}
+
+{
+	text-align: center;
+}
+.page-header
+{
+  
+    background-color: royalblue;
+	padding: 30px;
+	font-family: 'Poiret One', cursive;
+
+
+}
+.navbar-fixed-bottom
+
+{
+	text-align: center;
+}
+
+	
+}
+.row
+{
+	background-image: "background-image-for-website.jpg";
+
+}
+
+.navbar-fixed-bottom
+{
+	color: white;
+	font-size: 15px;
+}
